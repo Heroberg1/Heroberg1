@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, photography, and track & field
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on mecatronics engineering
-- 📫 How to reach me - ray.inc.05@gmail.com
+- 📫 How to reach me - raymondburrage@icloud.com
 
 <!---
 Heroberg1/Heroberg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
